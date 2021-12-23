@@ -1,0 +1,49 @@
+    1  ls
+    2  cd "C:\Users\wajdi\tuto_cpp"
+    3  cd C:\Users\wajdi\tuto_cpp
+    4  ls
+    5  cd tuto_cpp/
+    6  git init
+    7  git add README.md
+    8  echo "# python_project" >> README.md
+    9  git add README.md
+   10  git commit -m "first commit"
+   11  git branch -M main
+   12  git remote add origin https://github.com/WajdiHELAWI/python_project.git
+   13  git push -u origin main
+   14  sudo su 
+   15  sudo
+   16  . venv/Scripts/activate.bat 
+   17  . venv/Scripts/activate
+   18  jnlnj
+   19  ,kj
+   20  ffgh
+   21  python tuto_Advancedcomputer_vison.py 
+   22  git init
+   23  git remote add origin https://github.com/otmaneattou/computerVision.git
+   24  git clone   https://github.com/otmaneattou/computerVision.git
+   25  touch read.txt
+   26  git status
+   27  git add requirements.txt 
+   28  git add tuto_Advancedcomputer_vison.py 
+   29  git commit 
+   30  git commit -m "computer vison project"
+   31  git push 
+   32  git push --set-upstream origin master 
+   33  git push --set-upstream origin master 
+   34  git push --set-upstream origin master 
+   35  git push --set-upstream origin master 
+   36  git pull
+   37  git push --set-upstream origin master 
+   38  git push -u origin master 
+   39  git pull remote main
+   40  git push -u origin master 
+   41  git push -u origin master 
+   42  git remote add origin https://github.com/otmaneattou/computerVision.git
+   43  git pull
+   44  git branch --set-upstream-to=master 
+   45  git push -u origin master 
+   46  git pull origin master --allow-unrelated-histories
+   47  git push origin master 
+   48  history
+   49  history > hist.txt
